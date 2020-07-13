@@ -1,9 +1,11 @@
 ### Hi there 👋
-I am a Coding and Deep Learning enthusiast and a graduate from IIT Guwahati, majoring in Electronics and Electrical Engineering. I love writing code, and I am obsessed with the idea of using software to solve practical problems. Software engineering is a never-ending puzzle that I am passionately involved in solving.
+I am Anuj Gupta, a Coding and Deep Learning enthusiast and a graduate from IIT Guwahati, majoring in Electronics and Electrical Engineering. I love writing code, and I am obsessed with the idea of using software to solve practical problems. Software engineering is a never-ending puzzle that I am passionately involved in solving.
 
 I have experience as a summer intern at Samsung R&D Institute (2019), wherein I built applications leveraging Natural Language Processing. I also participated as a member of the technical team at the Robotics Club of IIT Guwahati and conceptualized multiple projects based on the applications of Robotics.
 
 I have experience with Data Structures and Algorithms, Deep Learning, Computer Vision and Natural Language Processing. I am familiar with languages such as C, C++, Python, SQL, Matlab, and libraries including Tensorflow, Keras, Scikit-learn, Numpy, Pandas, NLTK, spaCy, etc. 
+
+
 <!--
 **anujguptadds/anujguptadds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
