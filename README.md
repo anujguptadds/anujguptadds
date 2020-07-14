@@ -7,9 +7,7 @@ I have experience with Data Structures and Algorithms, Deep Learning, Computer V
 
 I am always open to exciting and challenging opportunities in the fields like Data Science (Deep Learning, Computer Vision, Natural Language Processing), Quantitative Research, and most software engineering roles involving cutting edge technologies. You can find my CV attached in this repository (anujguptadds/anujguptadds) to know more!
 
-LinkedIn: linkedin.com/in/anujgupta-dds
-Email: anujgupta.dds@gmail.com
-Mobile: (+91)8600234195
+LinkedIn: linkedin.com/in/anujgupta-dds       |       Email: anujgupta.dds@gmail.com       |       Mobile: (+91)8600234195
 <!--
 **anujguptadds/anujguptadds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
