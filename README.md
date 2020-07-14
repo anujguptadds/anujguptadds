@@ -5,7 +5,7 @@ I have experience as a summer intern at Samsung R&D Institute (2019), wherein I 
 
 I have experience with Data Structures and Algorithms, Deep Learning, Computer Vision and Natural Language Processing. I am familiar with languages such as C, C++, Python, SQL, Matlab, and libraries including Tensorflow, Keras, Scikit-learn, Numpy, Pandas, NLTK, spaCy, etc. 
 
-I am always open to exciting and challenging opportunities in the fields like Data Science (Deep Learning, Computer Vision, Natural Language Processing), Quantitative Research, and most software engineering roles involving cutting edge technologies. You can find my CV attached in this repository (anujguptadds/anujguptadds) to know more!
+I am always open to exciting and challenging opportunities in the fields like Data Science (Deep Learning, Computer Vision, Natural Language Processing), Quantitative Research, and software engineering roles involving cutting edge technologies. You can find my CV attached in this repository (anujguptadds/anujguptadds) to know more!
 
 LinkedIn: linkedin.com/in/anujgupta-dds       |       Email: anujgupta.dds@gmail.com       |       Mobile: (+91)8600234195
 <!--
